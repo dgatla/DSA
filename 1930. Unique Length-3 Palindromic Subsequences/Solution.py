@@ -31,3 +31,6 @@ class Solution:
                 ans += 1 if mp[c] > 2 else 0
             mp[c] -=1
         return ans
+
+
+
